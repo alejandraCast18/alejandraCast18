@@ -1,11 +1,11 @@
-![github-header-image](https://github.com/user-attachments/assets/b7e3746f-2aef-43c4-8563-fe32bc1795b6)
-
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdodjA1YnkzMTlsMHI5d3M0NmtyMG0zbW03ZGYzOTh1MHB4a2RodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.webp" width="100"/> 
+<img src="https://github.com/user-attachments/assets/b7e3746f-2aef-43c4-8563-fe32bc1795b6" width="100%"/> 
+</br>
+</br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdodjA1YnkzMTlsMHI5d3M0NmtyMG0zbW03ZGYzOTh1MHB4a2RodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.webp" width="200"/> 
 
 👋 Welcome!
-<br>
-<br>
+</br>
+</br>
 Since my early days in programming, I have been driven by the desire to build applications that are not only functional but also intuitive and engaging for users. I love working on challenging projects that allow me to expand my skills and apply new technologies.
 </br>
 </br>
