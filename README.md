@@ -1,7 +1,8 @@
-<img src="https://github.com/user-attachments/assets/b7e3746f-2aef-43c4-8563-fe32bc1795b6" width="100%"/> 
-</br>
-</br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdodjA1YnkzMTlsMHI5d3M0NmtyMG0zbW03ZGYzOTh1MHB4a2RodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.webp" width="200"/> 
+<p>
+  <img src="https://github.com/user-attachments/assets/b7e3746f-2aef-43c4-8563-fe32bc1795b6" style="width: 75%; display: inline-block;" alt="Main Image">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdodjA1YnkzMTlsMHI5d3M0NmtyMG0zbW03ZGYzOTh1MHB4a2RodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.webp" style="width: 200px; display: inline-block;" alt="GIF">
+</p>
+
 
 <h2> Hi, Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </br>
