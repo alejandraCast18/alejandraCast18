@@ -1,7 +1,6 @@
-![2 (1)](https://github.com/user-attachments/assets/038c41b0-cf89-4496-a892-af6c12b4c6fc)
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/038c41b0-cf89-4496-a892-af6c12b4c6fc" alt="GIF" width="1000" height="380">
+</p>
 
 <h2> Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
