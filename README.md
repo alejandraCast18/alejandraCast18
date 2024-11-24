@@ -3,13 +3,15 @@
 </br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdodjA1YnkzMTlsMHI5d3M0NmtyMG0zbW03ZGYzOTh1MHB4a2RodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.webp" width="200"/> 
 
-👋 Welcome!
+<h2> Hi, Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 </br>
 </br>
-Since my early days in programming, I have been driven by the desire to build applications that are not only functional but also intuitive and engaging for users. I love working on challenging projects that allow me to expand my skills and apply new technologies.
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Since my early days in programming, I have been driven by the desire to build applications that are not only functional but also intuitive and engaging for users. I love working on challenging projects that allow me to expand my skills and apply new technologies.
 </br>
 </br>
-Technologies 💻
+<p style="display: flex; align-items: center; justify-content: space-between;">
+  <span><b>Technologies</b></span>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="GIF">
 </br>
 </br>
 
